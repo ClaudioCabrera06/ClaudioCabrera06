@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Claudio Cabrera</h1>
 <h3 align="center">Fullstack Developer</h3>
 
-<h3 aling="center">¡Hola! Soy Claudio Cabrera, un apasionado desarrollador front-end con conocimientos avanzados en HTML5, CSS3, JavaScript, React y Redux. Mi objetivo es crear experiencias web excepcionales y atractivas para los usuarios.
+<h3 aling="center">Hello! I'm Claudio Cabrera, a passionate front-end developer with advanced knowledge in HTML5, CSS3, JavaScript, React and Redux. My goal is to create exceptional and engaging web experiences for users.
 
-Actualmente, estoy en búsqueda de nuevos conocimientos y oportunidades para expandir mi conjunto de habilidades. Estoy dispuesto a sumergirme en nuevas herramientas y tecnologías que me permitan crecer como profesional.
+Currently, I am looking for new knowledge and opportunities to expand my skill set. I am willing to immerse myself in new tools and technologies that allow me to grow as a professional.
 
-Mi enfoque está en el desarrollo front-end, pero también estoy emocionado por explorar el desarrollo full-stack y aprender más sobre tecnologías como Node.js, Express y otras herramientas backend.
+My focus is on front-end development, but I'm also excited to explore full-stack development and learn more about technologies like Node.js, Express, and other backend tools.
 
-Siempre estoy abierto a colaborar en proyectos innovadores y desafiantes que me permitan aplicar mis conocimientos actuales y adquirir nuevas habilidades en el camino.</h3>
+I am always open to collaborate on innovative and challenging projects that allow me to apply my current knowledge and gain new skills along the way.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=claudiocabrera06" alt="claudiocabrera06" /></a> </p>
 
